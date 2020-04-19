@@ -1,5 +1,5 @@
 # Colour-Based Binary Image Classifier using Genetic Algorithm
-Simple classifier based on color histogram. The classifier uses 6 values to classify pictures in two different classes and work like presented in the figure below :
+Simple classifier based on color histogram. The classifier uses 6 values to classify pictures in two different classes and works like presented in the figure below :
 
 ![Schema](figures/schema.png)
 
